@@ -1,3 +1,3 @@
-# devopsreadme.xyz
+# kubernetesreadme.com
 
-[devopsreadme.xyz](https://devopsreadme.xyz) — What to Read to Learn More About DevOps
+[kubernetesreadme.com](https://kubernetesreadme.com) — What to Read to Learn More About Kubernetes
