@@ -14,7 +14,7 @@ Please submit [pull requests](https://github.com/chris-short/kubernetesreadme.co
 
 By: Matt Butcher, Karen Chu & Bailey Beougher
 
-> The characters Phippy, Captain Kube, Goldie, and Zee and the two books are owned by The Linux Foundation, on behalf of the Cloud Native Computing Foundation, and licensed under the Creative Commons Attribution License (CC-BY), which means that you can remix, transform, and build upon the material for any purpose, even commercially. If you use the characters, please include the text "<phippy.io>" to provide attribution (and online, please include a link to <https://phippy.io>).
+> The characters Phippy, Captain Kube, Goldie, and Zee and the two books are owned by The Linux Foundation, on behalf of the Cloud Native Computing Foundation, and licensed under the Creative Commons Attribution License (CC-BY), which means that you can remix, transform, and build upon the material for any purpose, even commercially. If you use the characters, please include the text "<https://phippy.io>" to provide attribution (and online, please include a link to <https://phippy.io>).
 >
 > The characters and the two books were created by Matt Butcher, Karen Chu, and Bailey Beougher and donated by Microsoft to CNCF. Goldie is based on the Go Gopher, created by Renee French, which is also licensed under CC-BY.
 
