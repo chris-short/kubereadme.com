@@ -1,0 +1,53 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.64.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "git submodule update --rebase --remote && hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.64.0"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "git submodule update --rebase --remote && hugo -v --gc -DF"
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.64.0"
+# Skip all post processing in deploy previews,
+# ignoring any other settings
+[context.deploy-preview.processing]
+  skip_processing = true
+
+[context.branch-deploy]
+command = "git submodule update --rebase --remote && hugo -v --gc -DF"
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.64.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+# https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
+# If skip_processing = true, all other settings are ignored
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = false
+[build.processing.images]
+  compress = true
+
+[[redirects]]
+  from = "https://kubernetesreadme.netlify.app/*"
+  to = "https://kubernetesreadme.com/:splat"
+  status = 301
+  force = true

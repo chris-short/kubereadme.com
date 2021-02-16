@@ -1,0 +1,138 @@
+baseurl = "https://kubernetesreadme.com/"
+languageCode = "en-us"
+title = "Kubernetes README"
+theme = "onedly"
+
+#
+# Personalization params
+#
+[params]
+    # project specific params
+    description = "Kubernetes README"
+    author_url = "https://chrisshort.net/"
+    author_name = "Chris Short"
+    project_url = "https://github.com/chris-short/kubernetesreadme.com"
+
+    # optionally specify where the content is
+    # mainSections = ["post"] 
+
+    # social share links to appear at the end
+    socialShare          = true
+    # Sets specific share to appear on posts (default behavior is to appear)
+    socialShareTwitter   = true
+    socialShareGoogleplus = false
+    socialShareFacebook  = true
+    socialShareReddit    = true
+    socialShareLinkedin  = true
+    socialShareStumbleupon = false
+    socialSharePinterest = true
+    socialShareEmail = true
+
+    # theme's color scheme
+    first_color="#f8f8f8"
+    first_border_color="#e7e7e7"
+    first_text_color="#333"
+
+    second_color="white"
+    second_text_color="#333"
+
+    header_color="#f8f8f8"
+    header_text_color="rgb(51, 51, 51)"
+
+    header_link_color="#777"
+    header_link_hover_color="rgb(51, 51, 51)"
+
+#
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. Icons appear at the top of the page.
+#
+[social]
+    # Coding Communities
+    github           = "chris-short"
+    gitlab           = ""
+    stackoverflow    = "" # User Number
+    bitbucket        = ""
+    jsfiddle         = ""
+    codepen          = ""
+    # Visual Art Communities
+    deviantart       = ""
+    flickr           = ""
+    behance          = ""
+    dribbble         = ""
+    # Publishing Communities
+    wordpress        = ""
+    medium           = ""
+    # Professional/Business Oriented Communities
+    linkedin         = "thechrisshort"
+    linkedin_company = ""
+    foursquare       = ""
+    xing             = ""
+    slideshare       = ""
+    # Social Networks
+    facebook         = ""
+    googleplus       = ""
+    reddit           = "oaf357"
+    quora            = ""
+    youtube          = ""
+    vimeo            = ""
+    whatsapp         = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat         = ""
+    qq             = "" # User ID Number
+    instagram        = ""
+    tumblr           = ""
+    twitter          = "ChrisShort"
+    skype            = ""
+    snapchat         = ""
+    pinterest        = ""
+    telegram         = "ChrisShort"
+    vine             = ""
+    googlescholar    = ""
+    orcid            = ""
+    researchgate     = ""
+    # Email
+    email = "chris@chrisshort.net"
+
+#
+# Adjust privacy settings
+# See: https://gohugo.io/about/hugo-and-gdpr/
+#
+[privacy]
+    [privacy.disqus]
+      disable = true
+
+    [privacy.googleAnalytics]
+      disable = false
+      anonymizeIP = true
+      respectDoNotTrack = true
+      useSessionStorage = true
+
+    [privacy.instagram]
+      disable = false
+      simple = true
+
+    [privacy.twitter]
+      disable = false
+      enableDNT = true
+      simple = true
+
+    [privacy.vimeo]
+      disable = true
+      simple = true
+
+    [privacy.youtube]
+      disable = false
+      privacyEnhanced = true
+
+#
+# In simple mode for Instagram and a site styled with Bootstrap 4, 
+# you may want to disable the inlines styles provided by Hugo:
+# See: https://gohugo.io/about/hugo-and-gdpr/
+#
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
