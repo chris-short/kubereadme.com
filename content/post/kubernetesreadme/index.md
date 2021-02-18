@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2020-02-16T01:15:00Z
-description = "What to Read to Learn More About Kubernetes"
+description = "What to read to learn more about Kubernetes"
 draft = false
 slug = "kubernetes-readme"
 title = "Kubernetes README"
@@ -35,6 +35,26 @@ By: Justin Garrison and Kris Nova
 > This book is not a how-to and outside of giving implementation examples we’re not prescribing a specific product. It is probably too technical for managers, directors, and executives, but could be helpful depending on the involvement and technical expertiese of the person in that role.
 >
 > Most of all, please read this book if you want to learn how infrastructure impacts business, and how you can create infrastructure that has proven to scale to the demanding needs of Internet sized applications. Even if you don’t have applications that require scaling to that size you will still be better able to provide value if your infrastructure is built with the patterns described here with flexibility and operability in mind.
+
+## [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://amzn.to/3n3g8iU)
+
+By: Emily Freeman and Nathen Harvey
+
+>If you create, manage, operate, or configure systems running in the cloud, you're a cloud engineer--even if you work as a system administrator, software developer, data scientist, or site reliability engineer. With this book, professionals from around the world provide valuable insight into today's cloud engineering role.
+>
+>These concise articles explore the entire cloud computing experience, including fundamentals, architecture, and migration. You'll delve into security and compliance, operations and reliability, and software development. And examine networking, organizational culture, and more. You're sure to find 1, 2, or 97 things that inspire you to dig deeper and expand your own career.
+>
+> * "Three Keys to Making the Right Multicloud Decisions," Brendan O'Leary
+> * "Serverless Bad Practices," Manases Jesus Galindo Bello
+> * "Failing a Cloud Migration," Lee Atchison
+> * "Treat Your Cloud Environment as If It Were On Premises," Iyana Garry
+> * "What Is Toil, and Why Are SREs Obsessed with It?", Zachary Nickens
+> * "Lean QA: The QA Evolving in the DevOps World," Theresa Neate
+> * "How Economies of Scale Work in the Cloud," Jon Moore
+> * "The Cloud Is Not About the Cloud," Ken Corless
+> * "Data Gravity: The Importance of Data Management in the Cloud," Geoff Hughes
+> * "Even in the Cloud, the Network Is the Foundation," David Murray
+> * "Cloud Engineering Is About Culture, Not Containers," Holly Cummins
 
 ## [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns?utm_source=devopsish&utm_medium=affiliate&utm_campaign=affiliate&a_aid=devopsish)
 
