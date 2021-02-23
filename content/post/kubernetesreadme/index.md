@@ -172,6 +172,26 @@ By: Michael Hausenblas and Stefan Schimanski
 > Write custom controllers and operators and make them production ready
 > Extend the Kubernetes API surface by implementing a custom API server
 
+## [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache)
+
+By: Aurélie Vache
+
+> Understanding Kubernetes can be difficult or time-consuming. This collection of sketchnotes about Kubernetes have been created in order to explain the Cloud technology in a visual way.
+>
+> The book covers:
+>
+> * Kubernetes components (etcd, API-server, scheduler, kubelet, controller manager, proxy...)
+> * Resources (Pods, Jobs, CronJobs, ConfigMaps, Secrets, Deployments, ReplicaSet, DaemonSet, Services, Ingress, PV, PVC...)
+> * QoS, Horizontal PodAutoScaler, Pod & Node Affinity, Network Policies...
+> * And also a  example for operations you can do on Nodes
+> * Debugging / Troubleshooting Kubernetes
+> * Tips
+> * Useful tools to use
+>
+> The whole book includes "How To" with concrete examples for all concepts and illustrations that helps to understand abstract concepts.
+>
+> I hope this book will help you in your journey for understanding Kubernetes.
+
 ## [Kubernetes Newsletters](https://kubenews.net/)
 
 Kubernetes and Cloud Native Computing Foundation News Sources - How do you keep up with Kubernetes?
