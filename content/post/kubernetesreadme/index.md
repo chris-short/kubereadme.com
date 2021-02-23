@@ -56,6 +56,26 @@ By: Emily Freeman and Nathen Harvey
 > * "Even in the Cloud, the Network Is the Foundation," David Murray
 > * "Cloud Engineering Is About Culture, Not Containers," Holly Cummins
 
+## [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache)
+
+By: Aurélie Vache
+
+> Understanding Kubernetes can be difficult or time-consuming. This collection of sketchnotes about Kubernetes have been created in order to explain the Cloud technology in a visual way.
+>
+> The book covers:
+>
+> * Kubernetes components (etcd, API-server, scheduler, kubelet, controller manager, proxy...)
+> * Resources (Pods, Jobs, CronJobs, ConfigMaps, Secrets, Deployments, ReplicaSet, DaemonSet, Services, Ingress, PV, PVC...)
+> * QoS, Horizontal PodAutoScaler, Pod & Node Affinity, Network Policies...
+> * And also a  example for operations you can do on Nodes
+> * Debugging / Troubleshooting Kubernetes
+> * Tips
+> * Useful tools to use
+>
+> The whole book includes "How To" with concrete examples for all concepts and illustrations that helps to understand abstract concepts.
+>
+> I hope this book will help you in your journey for understanding Kubernetes.
+
 ## [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns?utm_source=devopsish&utm_medium=affiliate&utm_campaign=affiliate&a_aid=devopsish)
 
 By: Cornelia Davis
@@ -179,34 +199,16 @@ By: Zachary Arnold
 
 > This workshop adopts a practical approach to get you acquainted with the Kubernetes environment and its applications. Starting with an introduction to the fundamentals of Kubernetes, you’ll install and set up your Kubernetes environment. You’ll understand how to write YAML files and deploy your first simple web application container using Pod. You’ll then assign human-friendly names to Pods, explore various Kubernetes entities and functions, and discover when to use them. As you work through the chapters, this Kubernetes book will show you how you can make full-scale use of Kubernetes by applying a variety of techniques for designing components and deploying clusters. You’ll also get to grips with security policies for limiting access to certain functions inside the cluster. Toward the end of the book, you’ll get a rundown of Kubernetes advanced features for building your own controller and upgrading to a Kubernetes cluster without downtime.
 > What you will learn
+>
 > * Get to grips with the fundamentals of Kubernetes and its terminology
 > * Share or store data in different containers running in the same pod
 > * Create a container image from an image definition manifest
 > * Construct a Kubernetes-aware continuous integration (CI) pipeline for deployments
 > * Attract traffic to your app using Kubernetes ingress
 > * Build and deploy your own admission controller
-> Who this book is for
-> Whether you are new to the world of web programming or are an experienced developer or software engineer looking to use Kubernetes for managing and scaling containerized applications, you’ll find this workshop useful. A basic understanding of Docker and containerization is necessary to make the most of this bo
-
-## [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache)
-
-By: Aurélie Vache
-
-> Understanding Kubernetes can be difficult or time-consuming. This collection of sketchnotes about Kubernetes have been created in order to explain the Cloud technology in a visual way.
 >
-> The book covers:
->
-> * Kubernetes components (etcd, API-server, scheduler, kubelet, controller manager, proxy...)
-> * Resources (Pods, Jobs, CronJobs, ConfigMaps, Secrets, Deployments, ReplicaSet, DaemonSet, Services, Ingress, PV, PVC...)
-> * QoS, Horizontal PodAutoScaler, Pod & Node Affinity, Network Policies...
-> * And also a  example for operations you can do on Nodes
-> * Debugging / Troubleshooting Kubernetes
-> * Tips
-> * Useful tools to use
->
-> The whole book includes "How To" with concrete examples for all concepts and illustrations that helps to understand abstract concepts.
->
-> I hope this book will help you in your journey for understanding Kubernetes.
+> **Who this book is for**
+> Whether you are new to the world of web programming or are an experienced developer or software engineer looking to use Kubernetes for managing and scaling containerized applications, you’ll find this workshop useful. A basic understanding of Docker and containerization is necessary to make the most of this book.
 
 ## [Kubernetes Newsletters](https://kubenews.net/)
 
