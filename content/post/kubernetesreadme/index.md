@@ -10,6 +10,23 @@ title = "Kubernetes README"
 
 Please submit [pull requests](https://github.com/chris-short/kubernetesreadme.com) for books, tutorials, or other assets that would be useful to folks using Kubernetes.
 
+## [DevOps with Kubernetes 2020 - Introduction to Kubernetes practices](https://devopswithkubernetes.com/)
+
+By: Jami Kousa with the help of University of Helsinki's Toska and numerous course attendees.
+
+> This course is an introductory course to Kubernetes with K3s and GKE. In this course, you will develop software with a microservice architecture that utilizes Kubernetes to serve software that scales and deploys automatically. And learn how to manage it all.
+>
+> This course may be challenging as it expects that you
+>
+> * are familiar with containers
+> * are able to independently develop web software
+> * have knowledge of SQL databases
+> * know basics of networking
+>
+> As this course was written by a developer it offers an introduction into Kubernetes with the eyes of a developer. This course does not go into Kubernetes administration and there are other resources such as Kubernetes the hard way which offer a deep dive into how everything works, but course may work as a starting point.
+>
+> Licenced under Creative Commons BY-NC-SA 3.0 -licence
+
 ## [Phippy and friends](https://www.cncf.io/phippy/)
 
 By: Matt Butcher, Karen Chu & Bailey Beougher
