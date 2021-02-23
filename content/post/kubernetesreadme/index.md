@@ -153,7 +153,7 @@ By: Michael Hausenblas and Stefan Schimanski
 > Extend the Kubernetes API surface by implementing a custom API server
 > 
 
-## [The Kubernetes Workshop: Learn how to build and run highly scalable workloads on Kubernetes](https://www.amazon.de/-/en/Zachary-Arnold-ebook/dp/B082VFMMTY)
+## [The Kubernetes Workshop: Learn how to build and run highly scalable workloads on Kubernetes](https://amzn.to/3pNQ2l4)
 
 By: Zachary Arnold
 
