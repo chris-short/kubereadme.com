@@ -10,7 +10,7 @@ title = "Kubernetes README"
 
 Please submit [pull requests](https://github.com/chris-short/kubernetesreadme.com) for books, tutorials, or other assets that would be useful to folks using Kubernetes.
 
-## [DevOps with Kubernetes 2020 - Introduction to Kubernetes practices](https://devopswithkubernetes.com/)
+## [DevOps with Kubernetes - Introduction to Kubernetes practices](https://devopswithkubernetes.com/)
 
 By: Jami Kousa with the help of University of Helsinki's Toska and numerous course attendees.
 
