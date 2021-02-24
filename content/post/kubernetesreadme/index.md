@@ -55,6 +55,23 @@ By: Emily Freeman and Nathen Harvey
 > * "Data Gravity: The Importance of Data Management in the Cloud," Geoff Hughes
 > * "Even in the Cloud, the Network Is the Foundation," David Murray
 > * "Cloud Engineering Is About Culture, Not Containers," Holly Cummins
+ 
+## [DevOps with Kubernetes - Introduction to Kubernetes practices](https://devopswithkubernetes.com/)
+
+By: Jami Kousa with the help of University of Helsinki's Toska and numerous course attendees.
+
+> This course is an introductory course to Kubernetes with K3s and GKE. In this course, you will develop software with a microservice architecture that utilizes Kubernetes to serve software that scales and deploys automatically. And learn how to manage it all.
+>
+> This course may be challenging as it expects that you
+>
+> * are familiar with containers
+> * are able to independently develop web software
+> * have knowledge of SQL databases
+> * know basics of networking
+>
+> As this course was written by a developer it offers an introduction into Kubernetes with the eyes of a developer. This course does not go into Kubernetes administration and there are other resources such as Kubernetes the hard way which offer a deep dive into how everything works, but course may work as a starting point.
+>
+> Licenced under Creative Commons BY-NC-SA 3.0 -licence
 
 ## [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache)
 
