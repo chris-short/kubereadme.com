@@ -10,4 +10,4 @@ Please consider how advanced your materials are for the user. I try to put the e
 
 ### Copyright
 
-\[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license\](https://creativecommons.org/licenses/by-sa/4.0/)
+[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
