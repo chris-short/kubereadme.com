@@ -59,5 +59,7 @@ HUGO_ENABLEGITINFO = "true"
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
     X-Content-Type-Options = "nosniff"
-    Feature-Policy = "geolocation 'none'; midi 'none'; sync-xhr 'none';microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'none'; payment 'none'"
-    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    Permissions-Policy = "geolocation 'none'; midi 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'none'; payment 'none'"
+    Content-Security-Policy = "report-to https://chrisshort.report-uri.com/r/d/csp/wizard"
+    Report-To = '{"group":"default","max_age":31536000,"endpoints":[{"url":"https://chrisshort.report-uri.com/a/d/g"}],"include_subdomains":true}'
+    NEL = '{"report_to":"default","max_age":31536000,"include_subdomains":true}'
