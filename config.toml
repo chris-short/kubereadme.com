@@ -9,7 +9,7 @@ theme = "onedly"
 [params]
     # project specific params
     description = "Kubernetes README"
-    author_url = "https://chrisshort.net/"
+    author_url = "https://linktr.ee/TheChrisShort"
     author_name = "Chris Short"
     project_url = "https://github.com/chris-short/kubernetesreadme.com"
 
