@@ -167,6 +167,18 @@ By: Nigel Poulton
 >
 > Finally, Kubernetes and cloud technologies are developing fast! That's why this book will be updated at least once per year, meaning it's always up-to-date with the latest versions of Kubernetes and the latest trends in the cloud-native ecosystem.
 
+## [Kubernetes: Preparing for the CKA and CKAD Certifications](https://kubernetes-book.feloy.dev/)
+
+By: Philippe Martin
+
+> Master all the concepts and tools necessary to start administering a Kubernetes cluster and deploying applications to production. You will cover the entire curricula of the two Kubernetes certifications (for application developers and administrators).
+>
+> The initial chapters guide you through deployment of a Kubernetes cluster on virtual machines and explore the different components of the control plane. Next, you will work with the kubectl command-line tool; namespaces, labels, selectors, and annotations―common resources used through the Kubernetes API. The following chapters describe the principle of controllers and detail how workload controllers work as well as the possibilities for configuring deployed applications.
+>
+> You will also learn how to deploy a scalable and self-healing application, how pods are scheduled to nodes, how parts of the application can communicate, and how the application is discoverable from the outside. Next, you will cover security concerns describing the different authentication methods, the RBAC authorization mode, security contexts, network policies, and how to secure container images. You will also cover using persistent volumes for your containers to store long-term data, monitoring your clusters and applications and implementing design patterns for multi-container pods. The concluding chapters guide you through the upgrade of your deployed cluster.
+>
+> After reading this book, you will have enough knowledge to deploy a complex application using a Kubernetes cluster and be ready for the certification exams.
+
 ## [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 By: Kelsey Hightower
