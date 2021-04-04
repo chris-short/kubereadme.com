@@ -167,6 +167,18 @@ By: Nigel Poulton
 >
 > Finally, Kubernetes and cloud technologies are developing fast! That's why this book will be updated at least once per year, meaning it's always up-to-date with the latest versions of Kubernetes and the latest trends in the cloud-native ecosystem.
 
+## [Kubernetes API Reference: From the OpenAPI specification version v1.19](https://www.amazon.com/Kubernetes-API-Reference-OpenAPI-specification/dp/B08GV3ZLNS)
+
+By: Philippe Martin
+
+> This book is generated from the specifications of the Kubernetes API. It references the latest versions of all the resources: workloads, services, configuration and storage, authentication, authorization, policies, extend and cluster resources.
+>
+> For each resource, the fields are described recursively.
+>
+> It contains two indices: one index of the resources and one index of the fields.
+>
+> This reference will help you edit the YAML manifests of your Kubernetes resources and understand all the associated concepts, through the detailed explanations for all the fields of these resources found in the OpenAPI specification of the Kubernetes API.
+
 ## [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 By: Kelsey Hightower
