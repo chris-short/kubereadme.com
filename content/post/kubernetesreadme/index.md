@@ -167,6 +167,12 @@ By: Nigel Poulton
 >
 > Finally, Kubernetes and cloud technologies are developing fast! That's why this book will be updated at least once per year, meaning it's always up-to-date with the latest versions of Kubernetes and the latest trends in the cloud-native ecosystem.
 
+## [kubectl reference: Kubernetes command-line interface version 1.18.0](https://www.amazon.com/gp/product/B088N615VS)
+
+By: Philippe Martin
+
+> The kubectl reference book describes all the commands available with the kubectl command-line interface and all their options. The kubectl tool is the used to control your Kubernetes clusters and resources.
+
 ## [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 By: Kelsey Hightower
