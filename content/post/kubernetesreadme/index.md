@@ -93,6 +93,14 @@ By: Aurélie Vache
 >
 > I hope this book will help you in your journey for understanding Kubernetes.
 
+## [Kubernetes in Practice](https://kubernetesinpractice.com/)
+
+By: Brian Storti
+
+> This book is practical. You will run applications with Kubernetes from chapter one. 
+>
+> You will learn everything you need to know to reliably run your own applications, both locally and with a cloud provider. We will see how to scale our applications, different ways to expose them to the outside world, how to deal with configs and secrets our apps need, handle rollouts with zero downtime and more!
+
 ## [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns?utm_source=devopsish&utm_medium=affiliate&utm_campaign=affiliate&a_aid=devopsish)
 
 By: Cornelia Davis
