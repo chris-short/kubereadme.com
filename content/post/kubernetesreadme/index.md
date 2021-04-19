@@ -167,7 +167,7 @@ By: Nigel Poulton
 >
 > Finally, Kubernetes and cloud technologies are developing fast! That's why this book will be updated at least once per year, meaning it's always up-to-date with the latest versions of Kubernetes and the latest trends in the cloud-native ecosystem.
 
-## [Kubernetes: Preparing for the CKA and CKAD Certifications](https://kubernetes-book.feloy.dev/)
+## [Kubernetes: Preparing for the CKA and CKAD Certifications](https://amzn.to/3gqxRB0)
 
 By: Philippe Martin
 
