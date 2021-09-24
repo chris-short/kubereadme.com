@@ -55,7 +55,7 @@ By: Emily Freeman and Nathen Harvey
 > * "Data Gravity: The Importance of Data Management in the Cloud," Geoff Hughes
 > * "Even in the Cloud, the Network Is the Foundation," David Murray
 > * "Cloud Engineering Is About Culture, Not Containers," Holly Cummins
- 
+
 ## [DevOps with Kubernetes - Introduction to Kubernetes practices](https://devopswithkubernetes.com/)
 
 By: Jami Kousa with the help of University of Helsinki's Toska and numerous course attendees.
@@ -166,7 +166,7 @@ By: Nigel Poulton
 > The Kubernetes Book starts from the beginning and covers everything you need to know to be proficient with Kubernetes. It even includes two chapters dedicated to threat-modeling Kubernetes and real-world security.
 >
 > You'll learn:
-
+> 
 > - Kubernetes architecture
 > - How to build Kubernetes
 > - How to deploy and manage applications on Kubernetes
@@ -228,7 +228,6 @@ By: Michael Hausenblas and Stefan Schimanski
 > Use tags to control Kubernetes code generators for custom resources
 > Write custom controllers and operators and make them production ready
 > Extend the Kubernetes API surface by implementing a custom API server
-> 
 
 ## [The Kubernetes Workshop: Learn how to build and run highly scalable workloads on Kubernetes](https://amzn.to/3pNQ2l4)
 
