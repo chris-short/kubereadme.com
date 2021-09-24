@@ -1,7 +1,11 @@
 baseurl = "https://kubernetesreadme.com/"
 languageCode = "en-us"
 title = "Kubernetes README"
-theme = "onedly"
+theme = ["github.com/luizdepra/hugo-coder"]
+
+[module]
+[[module.imports]]
+  path = 'github.com/luizdepra/hugo-coder'
 
 #
 # Personalization params
