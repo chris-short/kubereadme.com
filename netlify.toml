@@ -34,7 +34,7 @@ HUGO_ENABLEGITINFO = "true"
 # https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
 # If skip_processing = true, all other settings are ignored
 [build.processing]
-  skip_processing = false
+  skip_processing = true
 [build.processing.css]
   bundle = true
   minify = true
