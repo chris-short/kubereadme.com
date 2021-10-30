@@ -250,3 +250,8 @@ By: Zachary Arnold
 ## [Kubernetes Newsletters](https://kubenews.net/)
 
 Kubernetes and Cloud Native Computing Foundation News Sources - How do you keep up with Kubernetes?
+
+## [Kubernetes Contributors](https://www.kubernetes.dev/)
+
+> This site is the home of contributor documentation, and serves as a starting point for your journey as a Kubernetes contributor.
+> It is intended to be the hub for all things related to the Kubernetes Contributor experience. Who exactly is a contributor? We all are–Whether you’re writing docs, reviewing code, participating in the community and its many SIGs, everyone is welcome. We hope this site will be a pathway to success for our 35000+ Kubernetes contributors, providing current, up-to-date information on community events, contributor resources, Kubernetes SIGs, and more.

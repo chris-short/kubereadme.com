@@ -1,4 +1,4 @@
-baseurl = "https://kubernetesreadme.com/"
+baseurl = "https://kubereadme.com/"
 languageCode = "en-us"
 title = "Kubernetes README"
 theme = "onedly"
@@ -11,7 +11,7 @@ theme = "onedly"
     description = "Kubernetes README"
     author_url = "https://linktr.ee/TheChrisShort"
     author_name = "Chris Short"
-    project_url = "https://github.com/chris-short/kubernetesreadme.com"
+    project_url = "https://github.com/chris-short/kubereadme.com"
 
     # optionally specify where the content is
     # mainSections = ["post"] 
