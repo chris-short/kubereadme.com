@@ -1,2 +1,3 @@
 # Local Netlify folder
 .netlify
+.hugo_build.lock

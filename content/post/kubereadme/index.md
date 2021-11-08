@@ -8,7 +8,7 @@ title = "Kubernetes README"
 
 +++
 
-Please submit [pull requests](https://github.com/chris-short/kubernetesreadme.com) for books, tutorials, or other assets that would be useful to folks using Kubernetes.
+Please submit [**pull requests**](https://github.com/chris-short/kubereadme.com) for books, tutorials, or other assets that would be useful to folks using Kubernetes.
 
 ## [Phippy and friends](https://www.cncf.io/phippy/)
 

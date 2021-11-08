@@ -48,7 +48,7 @@ theme = "onedly"
 #
 [social]
     # Coding Communities
-    github           = "chris-short"
+    github           = "chris-short/kubereadme.com"
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
