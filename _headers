@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: fullscreen=(self https://kubereadme.com), geolocation=(), camera=(), microphone=()
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Access-Control-Allow-Origin: https://kubereadme.com
