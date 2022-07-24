@@ -1,8 +1,5 @@
 /*
   Access-Control-Allow-Origin: https://kubereadme.com
-  Cross-Origin-Embedder-Policy: require-corp; report-to="default"
-  Cross-Origin-Opener-Policy: same-origin; report-to="default"
-  Cross-Origin-Resource-Policy: same-site
   Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
