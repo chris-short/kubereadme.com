@@ -175,6 +175,16 @@ By: Nigel Poulton
 >
 > Finally, Kubernetes and cloud technologies are developing fast! That's why this book will be updated at least once per year, meaning it's always up-to-date with the latest versions of Kubernetes and the latest trends in the cloud-native ecosystem.
 
+## [Cloud Native DevOps with Kubernetes](https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/)
+
+By: John Arundel and Justin Domingus
+
+> A comprehensive book on Kubernetes. Suited for people interested in systems architecture in general, as it covers concepts in this field and how those concepts are solved by Kubernetes.
+>
+> It follows a GitHub repository to follow along the explanations with practical examples, which is useful as it covers features in depth.
+>
+> You'll learn all about the Kubernetes ecosystem, and use battle-tested solutions to everyday problems. Also, what Kubernetes means for the future of software development and operations.
+
 ## [Kubernetes: Preparing for the CKA and CKAD Certifications](https://amzn.to/3gqxRB0)
 
 By: Philippe Martin
